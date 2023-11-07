@@ -1,0 +1,40 @@
+ { 
+            
+            <table className="tg">
+                <tbody>
+             <tr>
+             {Object.keys(posts).map((key, index) => (
+             <th scope="col" className="tg-0lax" key={key}>
+             <p className="group flex justify-between items-center">{key}</p>
+             </th>
+             ))}
+             <th className="tg-0lax" colSpan={2}>Opcje</th>
+             </tr>
+                
+                
+                   {
+                     Object.values(posts).map((val,k)=>{
+                        return(
+                            <tr key={k}>
+                                <td>{val}:</td>
+                            </tr>
+                        )
+                     })
+
+                   }
+                       {/* {Object.values(posts).map((val,k) => (
+                           
+                           <td key={k} className="py-2 px-3 text-lg text-gray-900 tg-0lax">
+                           {val}
+                           </td>
+                           
+                       ))}  
+                       */}
+                       <td className="py-2 px-3 text-lg text-gray-900 tg-0lax">Edit</td>
+                       <td className="py-2 px-3 text-lg text-gray-900 tg-0lax">Delete</td>
+                   
+               
+       
+                   </tbody>
+         </table>
+       }

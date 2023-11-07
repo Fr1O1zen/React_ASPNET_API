@@ -1,0 +1,352 @@
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/appsettings.Development.json
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/appsettings.json
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Chempions
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Chempions.deps.json
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Chempions.runtimeconfig.json
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Chempions.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Chempions.pdb
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/FluentValidation.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Google.Protobuf.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/MySql.Data.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/ZstdNet.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/MySql.EntityFrameworkCore.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Chempions.Data.Sql.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Chempions.Data.Sql.pdb
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/Chempions.csproj.AssemblyReference.cache
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/Chempions.GeneratedMSBuildEditorConfig.editorconfig
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/Chempions.AssemblyInfoInputs.cache
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/Chempions.AssemblyInfo.cs
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/Chempions.csproj.CoreCompileInputs.cache
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/Chempions.MvcApplicationPartsAssemblyInfo.cs
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/Chempions.MvcApplicationPartsAssemblyInfo.cache
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/staticwebassets.build.json
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/staticwebassets.development.json
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/scopedcss/bundle/Chempions.styles.css
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/Chempions.csproj.CopyComplete
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/Chempions.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/refint/Chempions.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/Chempions.pdb
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/Chempions.genruntimeconfig.cache
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/obj/Debug/net6.0/ref/Chempions.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\appsettings.Development.json
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\appsettings.json
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Chempions.exe
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Chempions.deps.json
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Chempions.runtimeconfig.json
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Chempions.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Chempions.pdb
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\FluentValidation.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Google.Protobuf.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\MySql.Data.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\ZstdNet.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Chempions.Data.Sql.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\bin\Debug\net6.0\Chempions.Data.Sql.pdb
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\Chempions.csproj.AssemblyReference.cache
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\Chempions.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\Chempions.AssemblyInfoInputs.cache
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\Chempions.AssemblyInfo.cs
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\Chempions.csproj.CoreCompileInputs.cache
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\Chempions.MvcApplicationPartsAssemblyInfo.cs
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\Chempions.MvcApplicationPartsAssemblyInfo.cache
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\staticwebassets.build.json
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\staticwebassets.development.json
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\scopedcss\bundle\Chempions.styles.css
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\Chempions.csproj.CopyComplete
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\Chempions.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\refint\Chempions.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\Chempions.pdb
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\Chempions.genruntimeconfig.cache
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions\obj\Debug\net6.0\ref\Chempions.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\appsettings.Development.json
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\appsettings.json
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.exe
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.deps.json
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.runtimeconfig.json
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.pdb
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\FluentValidation.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Google.Protobuf.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\MySql.Data.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\ZstdNet.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.Data.Sql.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.Data.Sql.pdb
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.csproj.AssemblyReference.cache
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.AssemblyInfoInputs.cache
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.AssemblyInfo.cs
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.csproj.CoreCompileInputs.cache
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.MvcApplicationPartsAssemblyInfo.cs
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.MvcApplicationPartsAssemblyInfo.cache
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\staticwebassets.build.json
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\staticwebassets.development.json
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\scopedcss\bundle\Chempions.styles.css
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.csproj.CopyComplete
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\refint\Chempions.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.pdb
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.genruntimeconfig.cache
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\ref\Chempions.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\appsettings.Development.json
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\appsettings.json
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.exe
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.deps.json
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.runtimeconfig.json
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.pdb
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\FluentValidation.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Google.Protobuf.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\MySql.Data.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\ZstdNet.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.Data.Sql.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.Data.Sql.pdb
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.csproj.AssemblyReference.cache
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.AssemblyInfoInputs.cache
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.AssemblyInfo.cs
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.csproj.CoreCompileInputs.cache
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.MvcApplicationPartsAssemblyInfo.cs
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.MvcApplicationPartsAssemblyInfo.cache
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\staticwebassets.build.json
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\staticwebassets.development.json
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\scopedcss\bundle\Chempions.styles.css
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.csproj.CopyComplete
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\refint\Chempions.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.pdb
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.genruntimeconfig.cache
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\ref\Chempions.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.AspNet.SignalR.Core.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Owin.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Owin.Host.SystemWeb.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Owin.Security.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Owin.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\appsettings.Development.json
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\appsettings.json
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.exe
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.deps.json
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.runtimeconfig.json
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.pdb
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\FluentValidation.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Google.Protobuf.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.AspNet.SignalR.Core.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Owin.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Owin.Host.SystemWeb.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Owin.Security.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\MySql.Data.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\ZstdNet.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Owin.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.Data.Sql.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\bin\Debug\net6.0\Chempions.Data.Sql.pdb
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.csproj.AssemblyReference.cache
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.AssemblyInfoInputs.cache
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.AssemblyInfo.cs
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.csproj.CoreCompileInputs.cache
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.MvcApplicationPartsAssemblyInfo.cs
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.MvcApplicationPartsAssemblyInfo.cache
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\staticwebassets\msbuild.Chempions.Microsoft.AspNetCore.StaticWebAssets.props
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\staticwebassets\msbuild.build.Chempions.props
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Chempions.props
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Chempions.props
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\staticwebassets.pack.json
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\staticwebassets.build.json
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\staticwebassets.development.json
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\scopedcss\bundle\Chempions.styles.css
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.csproj.CopyComplete
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\refint\Chempions.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.pdb
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\Chempions.genruntimeconfig.cache
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions\obj\Debug\net6.0\ref\Chempions.dll

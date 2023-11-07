@@ -1,0 +1,60 @@
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions.Data.Sql/bin/Debug/net6.0/Chempions.Data.Sql.deps.json
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions.Data.Sql/bin/Debug/net6.0/Chempions.Data.Sql.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions.Data.Sql/bin/Debug/net6.0/Chempions.Data.Sql.pdb
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions.Data.Sql/obj/Debug/net6.0/Chempions.Data.Sql.csproj.AssemblyReference.cache
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions.Data.Sql/obj/Debug/net6.0/Chempions.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions.Data.Sql/obj/Debug/net6.0/Chempions.Data.Sql.AssemblyInfoInputs.cache
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions.Data.Sql/obj/Debug/net6.0/Chempions.Data.Sql.AssemblyInfo.cs
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions.Data.Sql/obj/Debug/net6.0/Chempions.Data.Sql.csproj.CoreCompileInputs.cache
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions.Data.Sql/obj/Debug/net6.0/Chempions.Data.Sql.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions.Data.Sql/obj/Debug/net6.0/refint/Chempions.Data.Sql.dll
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions.Data.Sql/obj/Debug/net6.0/Chempions.Data.Sql.pdb
+/home/salama/programowanie_III_Laboratorium_2022_2023/studenci/grupa 7/Marcin Sidorowicz/laboratorium-s_103148/Zad8/Chempions.Data.Sql/obj/Debug/net6.0/ref/Chempions.Data.Sql.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions.Data.Sql\bin\Debug\net6.0\Chempions.Data.Sql.deps.json
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions.Data.Sql\bin\Debug\net6.0\Chempions.Data.Sql.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions.Data.Sql\bin\Debug\net6.0\Chempions.Data.Sql.pdb
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.csproj.AssemblyReference.cache
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.AssemblyInfoInputs.cache
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.AssemblyInfo.cs
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.csproj.CoreCompileInputs.cache
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions.Data.Sql\obj\Debug\net6.0\refint\Chempions.Data.Sql.dll
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.pdb
+D:\LabProgIIISidorowicz\API poprawka\laboratorium-s_103148_popr\laboratorium-s_103148\Zad8 Popr\Chempions.Data.Sql\obj\Debug\net6.0\ref\Chempions.Data.Sql.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\bin\Debug\net6.0\Chempions.Data.Sql.deps.json
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\bin\Debug\net6.0\Chempions.Data.Sql.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\bin\Debug\net6.0\Chempions.Data.Sql.pdb
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.csproj.AssemblyReference.cache
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.AssemblyInfoInputs.cache
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.AssemblyInfo.cs
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.csproj.CoreCompileInputs.cache
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\refint\Chempions.Data.Sql.dll
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.pdb
+D:\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\ref\Chempions.Data.Sql.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\bin\Debug\net6.0\Chempions.Data.Sql.deps.json
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\bin\Debug\net6.0\Chempions.Data.Sql.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\bin\Debug\net6.0\Chempions.Data.Sql.pdb
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.csproj.AssemblyReference.cache
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.AssemblyInfoInputs.cache
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.AssemblyInfo.cs
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.csproj.CoreCompileInputs.cache
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\refint\Chempions.Data.Sql.dll
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.pdb
+E:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\ref\Chempions.Data.Sql.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\bin\Debug\net6.0\Chempions.Data.Sql.deps.json
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\bin\Debug\net6.0\Chempions.Data.Sql.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\bin\Debug\net6.0\Chempions.Data.Sql.pdb
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.csproj.AssemblyReference.cache
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.AssemblyInfoInputs.cache
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.AssemblyInfo.cs
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.csproj.CoreCompileInputs.cache
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\refint\Chempions.Data.Sql.dll
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\Chempions.Data.Sql.pdb
+D:\STUDIA\SEMESTR 3\Programowanie III\LabProgIIISidorowicz\Komplet API+REACT\Zad8 API CONTORLER\Chempions.Data.Sql\obj\Debug\net6.0\ref\Chempions.Data.Sql.dll

@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(58, 58, 60);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.RouterLink {
+  text-decoration: none;
+  color: white;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+
+.NavText
+{
+  font-weight: 500;
+  color:rgb(27, 229, 158);
+  font-size: 20px;
+}
+
+.navBar
+{
+  padding-right: 10vw;
+  padding-left: 10vw;
+  display: flex;
+  background-color: rgb(38, 87, 172);
+  justify-content: space-between;
+  
+}
+.navBtn
+{
+  margin: 1vw;
+  font-weight: 500;
+  background-color: #ff6347;
+  padding: .3vw;
+  border-radius: 10%;
+}
+
+.carouselText
+{
+  padding: 2vw;
+  background-color: rgb(138, 138, 138);
+  opacity: 0.9;
+  color: white;
+  font-weight: 600;
+  font-size: 10vh;
+  display: block;
+  position: absolute;
+  left: 25%;
+  top: 25%;
+}
+
+.tg
+{
+  background-color: aliceblue;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5vh;
+  width: 50%;
+  justify-content: center;
+  list-style-type: none;
+}
+.tg-0lax
+{
+  background-color: aliceblue;
+  padding: 1vw;
+  border-bottom: 1px solid black;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
